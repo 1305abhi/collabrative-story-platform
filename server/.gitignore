@@ -1,0 +1,14 @@
+# Node.js
+node_modules
+npm-debug.log
+
+# macOS
+.DS_Store
+
+# React
+client/build
+client/.env.local
+
+# Environment variables
+.env
+
